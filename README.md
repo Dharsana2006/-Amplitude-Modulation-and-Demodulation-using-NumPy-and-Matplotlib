@@ -7,7 +7,7 @@ To implement and analyze amplitude modulation (AM) using Python's NumPy and Matp
 __Apparatus Required__: 
 
 Software: Python with NumPy and Matplotlib libraries 
-Hardware: Personal Computer 
+Hardware: Personal Computer
 
 __Theory__: 
 
